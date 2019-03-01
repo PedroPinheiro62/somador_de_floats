@@ -3,7 +3,10 @@
  * Este programa recebera uma serie de caracteres e indentifica nela todos os numeros. Esses numeros sao somados
  * e o resultado dessa soma eh exibido pelo programa. O resultado eh dado com o minimo de casas decimais possivel.
  * Numeros grudados em strings ou em outros numeros nao sao adicionados ao resultado.
- */
+ * 
+ *Aluno: Pedro Jairo Nogueira Pinheiro Neto
+ *RA: 156992
+*/
 
 #include <stdio.h>
 
